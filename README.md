@@ -24,11 +24,12 @@
 * majoring in robot engineering in SDUST
 * will studying for master's degree in VSISLab, SDU
 
-
+<div style="border:1px solid #CCC"></div> 
 ✊**Focusing**
 * remote Photoplethysmography
 * photic Stimulator
 
+<div style="border:1px solid #CCC"></div> 
 🌱**Learning**
 * Deep Learning
 * Digital Signal Processing
