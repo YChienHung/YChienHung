@@ -25,7 +25,7 @@
 * will study for master's degree in VSISLab, SDU
 
 ✊**Focusing**
-* remote Photoplethysmography
+* remote PhotoPlethysmoGraphy
 * photic Stimulator
 
 🌱**Learning**
