@@ -1,7 +1,7 @@
 <table align="right">
 
 <tr>
-  <td align="left">
+  <td align="left" style="max-width: 400px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=YChienHung&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide_title=true&hide=issues,prs" 
       />
@@ -10,7 +10,7 @@
 </tr>
 
 <tr>
-  <td align="left">
+  <td align="left" style="max-width: 400px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YChienHung&layout=compact&theme=buefy&hide_border=true&bg_color=F6F8FA" 
       />
@@ -25,11 +25,13 @@
 * will studying for master's degree in VSISLab, SDU
 
 <div style="border:1px solid #CCC"></div> 
+
 ✊**Focusing**
 * remote Photoplethysmography
 * photic Stimulator
 
 <div style="border:1px solid #CCC"></div> 
+
 🌱**Learning**
 * Deep Learning
 * Digital Signal Processing
