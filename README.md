@@ -1,7 +1,7 @@
 <table align="right">
 
 <tr>
-  <td style = "width: 40%;" align="left">
+  <td align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=YChienHung&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide_title=true&hide=issues,prs" 
       />
@@ -10,7 +10,7 @@
 </tr>
 
 <tr>
-  <td style = "width: 40%;" align="left">
+  <td align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YChienHung&layout=compact&theme=buefy&hide_border=true&bg_color=F6F8FA" 
       />
