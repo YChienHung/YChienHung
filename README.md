@@ -1,7 +1,7 @@
 <table align="right">
 
 <tr>
-  <td align="left" style="max-width: 400px;">
+  <td align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=YChienHung&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide_title=true&hide=issues,prs" 
       />
@@ -10,7 +10,7 @@
 </tr>
 
 <tr>
-  <td align="left" style="max-width: 400px;">
+  <td align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YChienHung&layout=compact&theme=buefy&hide_border=true&bg_color=F6F8FA" 
       />
@@ -24,13 +24,13 @@
 * majoring in robot engineering in SDUST
 * will studying for master's degree in VSISLab, SDU
 
-<div style="border:1px solid #CCC"></div> 
+<div style="border:2px solid #00"></div> 
 
 ✊**Focusing**
 * remote Photoplethysmography
 * photic Stimulator
 
-<div style="border:1px solid #CCC"></div> 
+<hr style="border:2px;color:#00" /> 
 
 🌱**Learning**
 * Deep Learning
