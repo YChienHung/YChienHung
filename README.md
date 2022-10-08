@@ -25,11 +25,13 @@
 * will studying for master's degree in VSISLab, SDU
 
 <hr width="35%" color=#987cb9 size=10>
+
 ✊**Focusing**
 * remote Photoplethysmography
 * photic Stimulator
 
 <hr width="35%" color=#987cb9 size=10>
+
 🌱**Learning**
 * Deep Learning
 * Digital Signal Processing
