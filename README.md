@@ -22,7 +22,7 @@
  
 👋**Hi I'm YChienHung**
 * majoring in robot engineering in SDUST
-* will studying for master's degree in VSISLab, SDU
+* will study for master's degree in VSISLab, SDU
 
 ✊**Focusing**
 * remote Photoplethysmography
