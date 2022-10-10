@@ -3,7 +3,7 @@
 <tr>
   <td align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=YChienHung&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide_title=true&hide=issues,prs&card_width=450px" 
+      <img src="https://github-readme-stats.vercel.app/api?username=YChienHung&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide_title=true&card_width=450px" 
       />
     </a>
   </td>
@@ -33,8 +33,6 @@
 * Digital Signal Processing
 * Control Algorithm
 
-
-**Languages and Tools**
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
