@@ -25,8 +25,9 @@
 * will study for master's degree in VSISLab, SDU
 
 ✊**Focusing**
-* remote PhotoPlethysmoGraphy
-* photic Stimulator
+* ~~remote PhotoPlethysmoGraphy~~
+* ~~photic Stimulator~~
+* Spinal intelligent medical diagnosis system
 
 🌱**Learning**
 * Deep Learning
