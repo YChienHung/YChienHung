@@ -27,7 +27,7 @@
 ✊**Focusing**
 * ~~remote PhotoPlethysmoGraphy~~
 * ~~photic Stimulator~~
-* Spinal intelligent medical diagnosis system
+* spinal Intelligent Medical Diagnosis System
 
 🌱**Learning**
 * Deep Learning
