@@ -25,13 +25,11 @@
 * will study for master's degree in VSISLab, SDU
 
 ✊**Focusing**
-* ~~remote PhotoPlethysmoGraphy~~
-* ~~photic Stimulator~~
-* spinal Intelligent Medical Diagnosis System
+* Heterogeneous Clustering Model based on Diffusion Model
 
 🌱**Learning**
 * Deep Learning
-* Digital Signal Processing
+* Medical Image
 
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
