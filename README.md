@@ -3,7 +3,7 @@
 <tr>
   <td align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=YChienHung&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide_title=true&card_width=400px" 
+      <img src="https://github-readme-stats.vercel.app/api?username=YChienHung&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide_title=true&card_width=400px&exclude_repo=yangchienhung.github.io" 
       />
     </a>
   </td>
@@ -12,7 +12,7 @@
 <tr>
   <td align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YChienHung&layout=compact&theme=buefy&hide_border=true&bg_color=F6F8FA&card_width=300px" 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YChienHung&layout=compact&theme=buefy&hide_border=true&bg_color=F6F8FA&card_width=300px&exclude_repo=yangchienhung.github.io" 
       />
     </a>
   </td>
