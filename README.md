@@ -12,7 +12,7 @@
 <tr>
   <td align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YChienHung&layout=compact&theme=buefy&hide_border=true&bg_color=F6F8FA&card_width=300px&exclude_repo=YChienHung.github.io" 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YChienHung&layout=compact&theme=buefy&hide_border=true&bg_color=F6F8FA&card_width=300px&exclude_repo=YChienHung.github.io,ros-class-projects" 
       />
     </a>
   </td>
