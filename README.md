@@ -1,4 +1,28 @@
-<table align="right">
+
+ 
+👋**Hi, my name is Yang Jianhong**
+
+* obtained B.E in Robot Engineering at SDUST, Qingdao, China 
+* pursuing M.E in Control Engineering at [VSISLab](http://www.vsislab.com/), SDU, Jinan, China
+* More details -  [ivylegends.cn](https://ivylegends.cn)
+
+✊**Focusing**
+* Heterogeneous Clustering Model based on Diffusion Model
+
+🌱**Learning**
+* Deep Learning
+* Segmentation
+
+⚡**Skills**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,linux,cmake,opencv,pytorch,qt&theme=light" />
+  </a>
+</p>
+
+📊 **Contribution**
+<table align="bottom">
 
 <tr>
   <td align="left">
@@ -19,21 +43,3 @@
 </tr>
   
 </table> 
- 
-👋**Hi I'm YChienHung**
-* obtained Bachelor of Engineering in Robot Engineering at SDUST, Qingdao, China.
-* studying for Master's Degree in Control Engineering at VSISLab, SDU, Jinan, China.
-
-✊**Focusing**
-* Heterogeneous Clustering Model based on Diffusion Model
-
-🌱**Learning**
-* Deep Learning
-* Medical Image
-* Instance Segmentation
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,linux,opencv,pytorch,qt" />
-  </a>
-</p>
