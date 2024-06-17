@@ -7,7 +7,7 @@
 * More details -  [ivylegends.cn](https://ivylegends.cn)
 
 ✊**Focusing**
-* Heterogeneous Clustering Model based on Diffusion Model
+* Medical Image Analysis
 
 🌱**Learning**
 * Deep Learning
