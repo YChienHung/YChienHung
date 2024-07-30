@@ -4,7 +4,7 @@
 
 * obtained B.E in Robot Engineering at SDUST, Qingdao, China 
 * pursuing M.E in Control Engineering at [VSISLab](http://www.vsislab.com/), SDU, Jinan, China
-* More details -  [Home Page]((https://ychienhung.github.io/)
+* More details -  [Home Page](https://ychienhung.github.io/)
 
 ✊**Focusing**
 * Medical Image Analysis
