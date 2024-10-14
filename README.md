@@ -36,7 +36,7 @@
 <tr>
   <td align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YChienHung&layout=compact&theme=buefy&hide_border=true&bg_color=F6F8FA&card_width=300px&exclude_repo=ychienhung.github.io,YChienHung.github.io,ros-class-projects,academic" 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YChienHung&layout=compact&theme=buefy&hide_border=true&bg_color=F6F8FA&card_width=300px&exclude_repo=ychienhung.github.io,YChienHung.github.io,ros-class-projects,academic,blog_deploy" 
       />
     </a>
   </td>
